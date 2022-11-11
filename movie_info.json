@@ -1,0 +1,3824 @@
+{
+  "tt0047396": {
+    "duration": 6746.49,
+    "fps": 23.98,
+    "framecnt": 161754,
+    "width_height_ratio": 1.6555555555555554,
+    "subtitle_num": 1306,
+    "shot_num": 793,
+    "scene_num": 124,
+    "synopsis_num": 16,
+    "resolution": [
+      1192,
+      720
+    ]
+  },
+  "tt0048545": {
+    "duration": 6655.71,
+    "fps": 23.98,
+    "framecnt": 159577,
+    "width_height_ratio": 2.549800796812749,
+    "subtitle_num": 1296,
+    "shot_num": 837,
+    "scene_num": 37,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      502
+    ]
+  },
+  "tt0049730": {
+    "duration": 7127.97,
+    "fps": 23.98,
+    "framecnt": 170899,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1350,
+    "shot_num": 654,
+    "scene_num": 135,
+    "synopsis_num": 13,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0052357": {
+    "duration": 7707.54,
+    "fps": 23.98,
+    "framecnt": 184795,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1289,
+    "shot_num": 1101,
+    "scene_num": 95,
+    "synopsis_num": 26,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0056923": {
+    "duration": 6816.47,
+    "fps": 23.98,
+    "framecnt": 163428,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1404,
+    "shot_num": 1236,
+    "scene_num": 57,
+    "synopsis_num": 35,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0061418": {
+    "duration": 6646.02,
+    "fps": 23.98,
+    "framecnt": 159343,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1101,
+    "shot_num": 1620,
+    "scene_num": 118,
+    "synopsis_num": 4,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0061722": {
+    "duration": 6362.82,
+    "fps": 23.98,
+    "framecnt": 152398,
+    "width_height_ratio": 2.359259259259259,
+    "subtitle_num": 1392,
+    "shot_num": 449,
+    "scene_num": 33,
+    "synopsis_num": 13,
+    "resolution": [
+      1274,
+      540
+    ]
+  },
+  "tt0062622": {
+    "duration": 8931.67,
+    "fps": 23.98,
+    "framecnt": 214146,
+    "width_height_ratio": 2.2145328719723185,
+    "subtitle_num": 649,
+    "shot_num": 645,
+    "scene_num": 87,
+    "synopsis_num": 23,
+    "resolution": [
+      1280,
+      578
+    ]
+  },
+  "tt0063442": {
+    "duration": 6722.96,
+    "fps": 23.98,
+    "framecnt": 161188,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1047,
+    "shot_num": 1144,
+    "scene_num": 37,
+    "synopsis_num": 32,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0065214": {
+    "duration": 8689.86,
+    "fps": 23.98,
+    "framecnt": 208347,
+    "width_height_ratio": 2.4150943396226414,
+    "subtitle_num": 1003,
+    "shot_num": 2469,
+    "scene_num": 103,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      530
+    ]
+  },
+  "tt0065724": {
+    "duration": 5904.35,
+    "fps": 23.98,
+    "framecnt": 141562,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1021,
+    "shot_num": 837,
+    "scene_num": 56,
+    "synopsis_num": 8,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0066026": {
+    "duration": 6955.84,
+    "fps": 23.98,
+    "framecnt": 166753,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1614,
+    "shot_num": 995,
+    "scene_num": 133,
+    "synopsis_num": 89,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0067116": {
+    "duration": 6234.65,
+    "fps": 23.98,
+    "framecnt": 149482,
+    "width_height_ratio": 1.839080459770115,
+    "subtitle_num": 772,
+    "shot_num": 1166,
+    "scene_num": 136,
+    "synopsis_num": 16,
+    "resolution": [
+      1280,
+      696
+    ]
+  },
+  "tt0068646": {
+    "duration": 10629.27,
+    "fps": 23.98,
+    "framecnt": 254845,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1321,
+    "shot_num": 1250,
+    "scene_num": 198,
+    "synopsis_num": 30,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0070735": {
+    "duration": 7756.92,
+    "fps": 23.98,
+    "framecnt": 185980,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1894,
+    "shot_num": 1079,
+    "scene_num": 49,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0071315": {
+    "duration": 7831.84,
+    "fps": 23.98,
+    "framecnt": 187775,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1955,
+    "shot_num": 529,
+    "scene_num": 95,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0071562": {
+    "duration": 12126.49,
+    "fps": 23.98,
+    "framecnt": 290742,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1503,
+    "shot_num": 1445,
+    "scene_num": 221,
+    "synopsis_num": 32,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0072684": {
+    "duration": 11104.22,
+    "fps": 23.98,
+    "framecnt": 266210,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1641,
+    "shot_num": 762,
+    "scene_num": 147,
+    "synopsis_num": 20,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0072890": {
+    "duration": 7479.54,
+    "fps": 23.98,
+    "framecnt": 179327,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1551,
+    "shot_num": 1512,
+    "scene_num": 164,
+    "synopsis_num": 6
+  },
+  "tt0073195": {
+    "duration": 7441.07,
+    "fps": 23.98,
+    "framecnt": 178407,
+    "width_height_ratio": 2.3616236162361623,
+    "subtitle_num": 1114,
+    "shot_num": 1244,
+    "scene_num": 101,
+    "synopsis_num": 25,
+    "resolution": [
+      1280,
+      542
+    ]
+  },
+  "tt0073440": {
+    "duration": 9634.22,
+    "fps": 23.98,
+    "framecnt": 230990,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1939,
+    "shot_num": 747,
+    "scene_num": 117,
+    "synopsis_num": 20
+  },
+  "tt0073486": {
+    "duration": 8022.27,
+    "fps": 23.98,
+    "framecnt": 192340,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1760,
+    "shot_num": 1575,
+    "scene_num": 100,
+    "synopsis_num": 14
+  },
+  "tt0074285": {
+    "duration": 5889.91,
+    "fps": 23.98,
+    "framecnt": 141216,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 881,
+    "shot_num": 974,
+    "scene_num": 85,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0075148": {
+    "duration": 7180.93,
+    "fps": 23.98,
+    "framecnt": 172169,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1684,
+    "shot_num": 897,
+    "scene_num": 116,
+    "synopsis_num": 33,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0075314": {
+    "duration": 6827.83,
+    "fps": 23.98,
+    "framecnt": 163704,
+    "width_height_ratio": 1.855072463768116,
+    "subtitle_num": 1200,
+    "shot_num": 889,
+    "scene_num": 40,
+    "synopsis_num": 16
+  },
+  "tt0076759": {
+    "duration": 7484.82,
+    "fps": 23.98,
+    "framecnt": 179454,
+    "width_height_ratio": 2.3300970873786406,
+    "subtitle_num": 1302,
+    "shot_num": 2210,
+    "scene_num": 129,
+    "synopsis_num": 53,
+    "resolution": [
+      1677,
+      720
+    ]
+  },
+  "tt0077405": {
+    "duration": 5640.04,
+    "fps": 23.98,
+    "framecnt": 135224,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 623,
+    "shot_num": 903,
+    "scene_num": 145,
+    "synopsis_num": 18,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0078788": {
+    "duration": 11770.0,
+    "fps": 23.98,
+    "framecnt": 282196,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 2107,
+    "shot_num": 1589,
+    "scene_num": 107,
+    "synopsis_num": 6,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0078841": {
+    "duration": 7792.83,
+    "fps": 23.98,
+    "framecnt": 186792,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1357,
+    "shot_num": 700,
+    "scene_num": 88,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0079417": {
+    "duration": 6288.24,
+    "fps": 23.98,
+    "framecnt": 150766,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1349,
+    "shot_num": 922,
+    "scene_num": 80,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0080684": {
+    "duration": 7641.64,
+    "fps": 23.98,
+    "framecnt": 183215,
+    "width_height_ratio": 2.3300970873786406,
+    "subtitle_num": 1135,
+    "shot_num": 1770,
+    "scene_num": 103,
+    "synopsis_num": 24,
+    "resolution": [
+      1677,
+      720
+    ]
+  },
+  "tt0080745": {
+    "duration": 6687.94,
+    "fps": 24.0,
+    "framecnt": 160510,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 706,
+    "shot_num": 1526,
+    "scene_num": 73,
+    "synopsis_num": 9
+  },
+  "tt0081505": {
+    "duration": 8626.11,
+    "fps": 23.98,
+    "framecnt": 206819,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1302,
+    "shot_num": 682,
+    "scene_num": 84,
+    "synopsis_num": 25,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0082089": {
+    "duration": 6792.8,
+    "fps": 23.98,
+    "framecnt": 162863,
+    "width_height_ratio": 1.7666666666666666,
+    "subtitle_num": 1142,
+    "shot_num": 607,
+    "scene_num": 93,
+    "synopsis_num": 13,
+    "resolution": [
+      1272,
+      720
+    ]
+  },
+  "tt0082971": {
+    "duration": 6918.97,
+    "fps": 23.98,
+    "framecnt": 165887,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1483,
+    "shot_num": 1489,
+    "scene_num": 58,
+    "synopsis_num": 19,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0083658": {
+    "duration": 7056.86,
+    "fps": 23.98,
+    "framecnt": 169194,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 800,
+    "shot_num": 1381,
+    "scene_num": 130,
+    "synopsis_num": 16,
+    "resolution": [
+      1280,
+      528
+    ]
+  },
+  "tt0083929": {
+    "duration": 5380.0,
+    "fps": 23.98,
+    "framecnt": 128990,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1033,
+    "shot_num": 1181,
+    "scene_num": 158,
+    "synopsis_num": 26,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0083987": {
+    "duration": 11474.46,
+    "fps": 23.98,
+    "framecnt": 275112,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1924,
+    "shot_num": 1849,
+    "scene_num": 131,
+    "synopsis_num": 3
+  },
+  "tt0084726": {
+    "duration": 6781.81,
+    "fps": 23.98,
+    "framecnt": 162601,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 1084,
+    "shot_num": 1022,
+    "scene_num": 168,
+    "synopsis_num": 30,
+    "resolution": [
+      1280,
+      528
+    ]
+  },
+  "tt0084787": {
+    "duration": 6522.43,
+    "fps": 23.98,
+    "framecnt": 156380,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 621,
+    "shot_num": 1017,
+    "scene_num": 115,
+    "synopsis_num": 15
+  },
+  "tt0085794": {
+    "duration": 6539.53,
+    "fps": 23.98,
+    "framecnt": 156792,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1476,
+    "shot_num": 793,
+    "scene_num": 82,
+    "synopsis_num": 8
+  },
+  "tt0086190": {
+    "duration": 8087.47,
+    "fps": 23.98,
+    "framecnt": 193903,
+    "width_height_ratio": 2.3300970873786406,
+    "subtitle_num": 1007,
+    "shot_num": 2178,
+    "scene_num": 129,
+    "synopsis_num": 17,
+    "resolution": [
+      1677,
+      720
+    ]
+  },
+  "tt0086250": {
+    "duration": 10200.23,
+    "fps": 23.98,
+    "framecnt": 244559,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 2193,
+    "shot_num": 1560,
+    "scene_num": 202,
+    "synopsis_num": 21,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0086879": {
+    "duration": 10825.77,
+    "fps": 23.98,
+    "framecnt": 259558,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 1640,
+    "shot_num": 2268,
+    "scene_num": 212,
+    "synopsis_num": 7,
+    "resolution": [
+      1745,
+      720
+    ]
+  },
+  "tt0087332": {
+    "duration": 6308.32,
+    "fps": 23.98,
+    "framecnt": 151248,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1178,
+    "shot_num": 1233,
+    "scene_num": 121,
+    "synopsis_num": 42,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0088247": {
+    "duration": 6423.46,
+    "fps": 23.98,
+    "framecnt": 154008,
+    "width_height_ratio": 1.8604651162790697,
+    "subtitle_num": 549,
+    "shot_num": 1851,
+    "scene_num": 50,
+    "synopsis_num": 22
+  },
+  "tt0088847": {
+    "duration": 5817.66,
+    "fps": 23.98,
+    "framecnt": 139483,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1214,
+    "shot_num": 1363,
+    "scene_num": 92,
+    "synopsis_num": 11,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0088944": {
+    "duration": 5415.81,
+    "fps": 23.98,
+    "framecnt": 129848,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 510,
+    "shot_num": 1843,
+    "scene_num": 51,
+    "synopsis_num": 6,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0090022": {
+    "duration": 7956.96,
+    "fps": 23.98,
+    "framecnt": 190776,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 932,
+    "shot_num": 1310,
+    "scene_num": 136,
+    "synopsis_num": 25,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0090605": {
+    "duration": 9267.18,
+    "fps": 23.98,
+    "framecnt": 222185,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1425,
+    "shot_num": 2932,
+    "scene_num": 96,
+    "synopsis_num": 30,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0090756": {
+    "duration": 7232.68,
+    "fps": 23.98,
+    "framecnt": 173411,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1141,
+    "shot_num": 896,
+    "scene_num": 115,
+    "synopsis_num": 12,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0091042": {
+    "duration": 6180.19,
+    "fps": 23.98,
+    "framecnt": 148176,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1201,
+    "shot_num": 1365,
+    "scene_num": 207,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0091203": {
+    "duration": 6999.04,
+    "fps": 24.0,
+    "framecnt": 167975,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1145,
+    "shot_num": 1976,
+    "scene_num": 71,
+    "synopsis_num": 19
+  },
+  "tt0091763": {
+    "duration": 7189.76,
+    "fps": 23.98,
+    "framecnt": 172380,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1442,
+    "shot_num": 1474,
+    "scene_num": 45,
+    "synopsis_num": 15
+  },
+  "tt0093565": {
+    "duration": 6115.65,
+    "fps": 23.98,
+    "framecnt": 146629,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1096,
+    "shot_num": 970,
+    "scene_num": 93,
+    "synopsis_num": 5,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0093779": {
+    "duration": 5901.94,
+    "fps": 23.98,
+    "framecnt": 141504,
+    "width_height_ratio": 1.8604651162790697,
+    "subtitle_num": 1442,
+    "shot_num": 1449,
+    "scene_num": 121,
+    "synopsis_num": 25,
+    "resolution": [
+      1280,
+      688
+    ]
+  },
+  "tt0094291": {
+    "duration": 7544.53,
+    "fps": 23.98,
+    "framecnt": 180888,
+    "width_height_ratio": 1.8532818532818534,
+    "subtitle_num": 1477,
+    "shot_num": 832,
+    "scene_num": 151,
+    "synopsis_num": 14
+  },
+  "tt0094737": {
+    "duration": 7825.03,
+    "fps": 23.98,
+    "framecnt": 187613,
+    "width_height_ratio": 1.855072463768116,
+    "subtitle_num": 1549,
+    "shot_num": 1297,
+    "scene_num": 180,
+    "synopsis_num": 4,
+    "resolution": [
+      1280,
+      690
+    ]
+  },
+  "tt0095016": {
+    "duration": 7927.94,
+    "fps": 23.98,
+    "framecnt": 190080,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1299,
+    "shot_num": 1817,
+    "scene_num": 153,
+    "synopsis_num": 5,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0096320": {
+    "duration": 6411.17,
+    "fps": 23.98,
+    "framecnt": 153686,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1503,
+    "shot_num": 1138,
+    "scene_num": 114,
+    "synopsis_num": 7,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0096446": {
+    "duration": 7555.59,
+    "fps": 23.98,
+    "framecnt": 181153,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1100,
+    "shot_num": 2386,
+    "scene_num": 53,
+    "synopsis_num": 4
+  },
+  "tt0096895": {
+    "duration": 7579.86,
+    "fps": 23.98,
+    "framecnt": 181735,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1053,
+    "shot_num": 1724,
+    "scene_num": 93,
+    "synopsis_num": 31,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0097428": {
+    "duration": 6499.52,
+    "fps": 23.98,
+    "framecnt": 155832,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1631,
+    "shot_num": 1258,
+    "scene_num": 145,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0097576": {
+    "duration": 7613.44,
+    "fps": 23.98,
+    "framecnt": 182538,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1791,
+    "shot_num": 1610,
+    "scene_num": 84,
+    "synopsis_num": 12,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0098724": {
+    "duration": 6000.03,
+    "fps": 23.98,
+    "framecnt": 143856,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1067,
+    "shot_num": 591,
+    "scene_num": 64,
+    "synopsis_num": 18,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0099423": {
+    "duration": 7635.46,
+    "fps": 23.98,
+    "framecnt": 183068,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 2038,
+    "shot_num": 2430,
+    "scene_num": 191,
+    "synopsis_num": 69,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0099487": {
+    "duration": 6303.33,
+    "fps": 23.98,
+    "framecnt": 151129,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 934,
+    "shot_num": 863,
+    "scene_num": 98,
+    "synopsis_num": 7,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0099653": {
+    "duration": 7599.62,
+    "fps": 23.98,
+    "framecnt": 182208,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1959,
+    "shot_num": 1465,
+    "scene_num": 75,
+    "synopsis_num": 6
+  },
+  "tt0099674": {
+    "duration": 10215.2,
+    "fps": 23.98,
+    "framecnt": 244920,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1283,
+    "shot_num": 1386,
+    "scene_num": 125,
+    "synopsis_num": 21,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0099685": {
+    "duration": 8720.72,
+    "fps": 23.98,
+    "framecnt": 209088,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 2277,
+    "shot_num": 1248,
+    "scene_num": 94,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0100157": {
+    "duration": 6443.48,
+    "fps": 23.98,
+    "framecnt": 154489,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1003,
+    "shot_num": 1244,
+    "scene_num": 85,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0100405": {
+    "duration": 7177.02,
+    "fps": 23.98,
+    "framecnt": 172075,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1570,
+    "shot_num": 1132,
+    "scene_num": 70,
+    "synopsis_num": 7,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0100802": {
+    "duration": 6811.13,
+    "fps": 24.0,
+    "framecnt": 163467,
+    "width_height_ratio": 1.855072463768116,
+    "subtitle_num": 1132,
+    "shot_num": 1891,
+    "scene_num": 88,
+    "synopsis_num": 21,
+    "resolution": [
+      1280,
+      690
+    ]
+  },
+  "tt0101272": {
+    "duration": 5976.99,
+    "fps": 23.98,
+    "framecnt": 143304,
+    "width_height_ratio": 1.8658892128279883,
+    "subtitle_num": 1066,
+    "shot_num": 1604,
+    "scene_num": 115,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      686
+    ]
+  },
+  "tt0102138": {
+    "duration": 12348.67,
+    "fps": 23.98,
+    "framecnt": 296069,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 3142,
+    "shot_num": 2568,
+    "scene_num": 538,
+    "synopsis_num": 19
+  },
+  "tt0102926": {
+    "duration": 7111.62,
+    "fps": 23.98,
+    "framecnt": 170508,
+    "width_height_ratio": 1.839080459770115,
+    "subtitle_num": 1264,
+    "shot_num": 1158,
+    "scene_num": 135,
+    "synopsis_num": 4
+  },
+  "tt0103074": {
+    "duration": 7776.45,
+    "fps": 23.98,
+    "framecnt": 186448,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1901,
+    "shot_num": 1159,
+    "scene_num": 114,
+    "synopsis_num": 17,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0103772": {
+    "duration": 7695.49,
+    "fps": 23.98,
+    "framecnt": 184504,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1194,
+    "shot_num": 1299,
+    "scene_num": 84,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0103776": {
+    "duration": 7588.5,
+    "fps": 23.98,
+    "framecnt": 181942,
+    "width_height_ratio": 1.7722222222222221,
+    "subtitle_num": 1035,
+    "shot_num": 1779,
+    "scene_num": 109,
+    "synopsis_num": 17,
+    "resolution": [
+      1276,
+      720
+    ]
+  },
+  "tt0104257": {
+    "duration": 8281.27,
+    "fps": 23.98,
+    "framecnt": 198552,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 2079,
+    "shot_num": 1488,
+    "scene_num": 72,
+    "synopsis_num": 29,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0104348": {
+    "duration": 6023.13,
+    "fps": 23.98,
+    "framecnt": 144410,
+    "width_height_ratio": 2.335766423357664,
+    "subtitle_num": 1794,
+    "shot_num": 869,
+    "scene_num": 30,
+    "synopsis_num": 11,
+    "resolution": [
+      1280,
+      548
+    ]
+  },
+  "tt0105236": {
+    "duration": 5946.57,
+    "fps": 23.98,
+    "framecnt": 142573,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1420,
+    "shot_num": 645,
+    "scene_num": 38,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0105695": {
+    "duration": 7840.64,
+    "fps": 23.98,
+    "framecnt": 187984,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1289,
+    "shot_num": 1616,
+    "scene_num": 83,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0106582": {
+    "duration": 6780.61,
+    "fps": 23.98,
+    "framecnt": 162572,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 1066,
+    "shot_num": 1601,
+    "scene_num": 70,
+    "synopsis_num": 15
+  },
+  "tt0107290": {
+    "duration": 7602.56,
+    "fps": 23.98,
+    "framecnt": 182277,
+    "width_height_ratio": 1.8604651162790697,
+    "subtitle_num": 1217,
+    "shot_num": 1328,
+    "scene_num": 157,
+    "synopsis_num": 18,
+    "resolution": [
+      1280,
+      688
+    ]
+  },
+  "tt0107808": {
+    "duration": 8299.3,
+    "fps": 23.98,
+    "framecnt": 198984,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1170,
+    "shot_num": 1760,
+    "scene_num": 80,
+    "synopsis_num": 28,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0107822": {
+    "duration": 7224.83,
+    "fps": 24.0,
+    "framecnt": 173396,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 853,
+    "shot_num": 946,
+    "scene_num": 87,
+    "synopsis_num": 7,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0108160": {
+    "duration": 6305.34,
+    "fps": 23.98,
+    "framecnt": 151177,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1379,
+    "shot_num": 707,
+    "scene_num": 68,
+    "synopsis_num": 13,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0108330": {
+    "duration": 6883.01,
+    "fps": 23.98,
+    "framecnt": 165006,
+    "width_height_ratio": 2.4150943396226414,
+    "subtitle_num": 1122,
+    "shot_num": 1123,
+    "scene_num": 132,
+    "synopsis_num": 5,
+    "resolution": [
+      1280,
+      530
+    ]
+  },
+  "tt0108399": {
+    "duration": 7230.24,
+    "fps": 23.98,
+    "framecnt": 173352,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 1793,
+    "shot_num": 1941,
+    "scene_num": 120,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      546
+    ]
+  },
+  "tt0109686": {
+    "duration": 6770.59,
+    "fps": 23.98,
+    "framecnt": 162308,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1948,
+    "shot_num": 1031,
+    "scene_num": 137,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0110074": {
+    "duration": 6645.02,
+    "fps": 23.98,
+    "framecnt": 159312,
+    "width_height_ratio": 1.761111111111111,
+    "subtitle_num": 1385,
+    "shot_num": 1170,
+    "scene_num": 123,
+    "synopsis_num": 12,
+    "resolution": [
+      1268,
+      720
+    ]
+  },
+  "tt0110475": {
+    "duration": 6072.53,
+    "fps": 23.98,
+    "framecnt": 145595,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1861,
+    "shot_num": 1326,
+    "scene_num": 88,
+    "synopsis_num": 7
+  },
+  "tt0110632": {
+    "duration": 7323.33,
+    "fps": 23.98,
+    "framecnt": 175584,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1600,
+    "shot_num": 2196,
+    "scene_num": 432,
+    "synopsis_num": 23
+  },
+  "tt0112573": {
+    "duration": 10663.17,
+    "fps": 23.98,
+    "framecnt": 255660,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 1213,
+    "shot_num": 3096,
+    "scene_num": 160,
+    "synopsis_num": 19
+  },
+  "tt0112641": {
+    "duration": 10700.19,
+    "fps": 23.98,
+    "framecnt": 256548,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 2904,
+    "shot_num": 1832,
+    "scene_num": 156,
+    "synopsis_num": 19,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0113243": {
+    "duration": 6323.09,
+    "fps": 23.98,
+    "framecnt": 151580,
+    "width_height_ratio": 2.335766423357664,
+    "subtitle_num": 1024,
+    "shot_num": 1293,
+    "scene_num": 141,
+    "synopsis_num": 12,
+    "resolution": [
+      1280,
+      548
+    ]
+  },
+  "tt0113277": {
+    "duration": 10227.42,
+    "fps": 23.98,
+    "framecnt": 245213,
+    "width_height_ratio": 2.388059701492537,
+    "subtitle_num": 1603,
+    "shot_num": 2000,
+    "scene_num": 194,
+    "synopsis_num": 38,
+    "resolution": [
+      1280,
+      536
+    ]
+  },
+  "tt0114369": {
+    "duration": 7609.64,
+    "fps": 23.98,
+    "framecnt": 182447,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1657,
+    "shot_num": 1610,
+    "scene_num": 137,
+    "synopsis_num": 10,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0114388": {
+    "duration": 8177.18,
+    "fps": 23.98,
+    "framecnt": 196056,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1466,
+    "shot_num": 1238,
+    "scene_num": 106,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0114558": {
+    "duration": 8726.14,
+    "fps": 23.98,
+    "framecnt": 209218,
+    "width_height_ratio": 2.3616236162361623,
+    "subtitle_num": 1544,
+    "shot_num": 2806,
+    "scene_num": 212,
+    "synopsis_num": 18,
+    "resolution": [
+      1280,
+      542
+    ]
+  },
+  "tt0114746": {
+    "duration": 7774.76,
+    "fps": 23.98,
+    "framecnt": 186407,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1894,
+    "shot_num": 1302,
+    "scene_num": 145,
+    "synopsis_num": 11
+  },
+  "tt0114814": {
+    "duration": 6364.07,
+    "fps": 23.98,
+    "framecnt": 152585,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1114,
+    "shot_num": 1131,
+    "scene_num": 63,
+    "synopsis_num": 12,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0115759": {
+    "duration": 6501.37,
+    "fps": 23.98,
+    "framecnt": 155877,
+    "width_height_ratio": 2.3616236162361623,
+    "subtitle_num": 995,
+    "shot_num": 2034,
+    "scene_num": 206,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      542
+    ]
+  },
+  "tt0115798": {
+    "duration": 5745.76,
+    "fps": 23.98,
+    "framecnt": 137759,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 789,
+    "shot_num": 1159,
+    "scene_num": 55,
+    "synopsis_num": 23,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0116209": {
+    "duration": 9704.35,
+    "fps": 23.98,
+    "framecnt": 232666,
+    "width_height_ratio": 1.8604651162790697,
+    "subtitle_num": 1523,
+    "shot_num": 1759,
+    "scene_num": 181,
+    "synopsis_num": 4,
+    "resolution": [
+      1280,
+      688
+    ]
+  },
+  "tt0116282": {
+    "duration": 5894.68,
+    "fps": 23.98,
+    "framecnt": 141331,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1508,
+    "shot_num": 760,
+    "scene_num": 71,
+    "synopsis_num": 51
+  },
+  "tt0116367": {
+    "duration": 6482.11,
+    "fps": 24.0,
+    "framecnt": 155569,
+    "width_height_ratio": 1.839080459770115,
+    "subtitle_num": 1153,
+    "shot_num": 2039,
+    "scene_num": 32,
+    "synopsis_num": 13,
+    "resolution": [
+      1280,
+      696
+    ]
+  },
+  "tt0116629": {
+    "duration": 8687.68,
+    "fps": 23.98,
+    "framecnt": 208296,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1417,
+    "shot_num": 2540,
+    "scene_num": 187,
+    "synopsis_num": 11,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0116922": {
+    "duration": 8048.04,
+    "fps": 24.0,
+    "framecnt": 193153,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 584,
+    "shot_num": 1212,
+    "scene_num": 72,
+    "synopsis_num": 26
+  },
+  "tt0117060": {
+    "duration": 6612.61,
+    "fps": 23.98,
+    "framecnt": 158544,
+    "width_height_ratio": 2.4120603015075375,
+    "subtitle_num": 933,
+    "shot_num": 1537,
+    "scene_num": 267,
+    "synopsis_num": 11,
+    "resolution": [
+      1736,
+      720
+    ]
+  },
+  "tt0117500": {
+    "duration": 8189.52,
+    "fps": 23.98,
+    "framecnt": 196350,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1528,
+    "shot_num": 3034,
+    "scene_num": 468,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0117951": {
+    "duration": 5630.92,
+    "fps": 23.98,
+    "framecnt": 135005,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1371,
+    "shot_num": 1217,
+    "scene_num": 117,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0118571": {
+    "duration": 7474.44,
+    "fps": 23.98,
+    "framecnt": 179207,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 1176,
+    "shot_num": 1746,
+    "scene_num": 214,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      532
+    ]
+  },
+  "tt0118636": {
+    "duration": 6670.67,
+    "fps": 23.98,
+    "framecnt": 159936,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 989,
+    "shot_num": 1486,
+    "scene_num": 111,
+    "synopsis_num": 5,
+    "resolution": [
+      1280,
+      532
+    ]
+  },
+  "tt0118715": {
+    "duration": 7015.59,
+    "fps": 23.98,
+    "framecnt": 168206,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 2031,
+    "shot_num": 1070,
+    "scene_num": 56,
+    "synopsis_num": 35,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0118929": {
+    "duration": 6695.94,
+    "fps": 23.98,
+    "framecnt": 160542,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1104,
+    "shot_num": 2522,
+    "scene_num": 101,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0118971": {
+    "duration": 8635.67,
+    "fps": 23.98,
+    "framecnt": 207049,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 2227,
+    "shot_num": 2180,
+    "scene_num": 206,
+    "synopsis_num": 19,
+    "resolution": [
+      1280,
+      532
+    ]
+  },
+  "tt0119094": {
+    "duration": 8336.38,
+    "fps": 23.98,
+    "framecnt": 199873,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 1132,
+    "shot_num": 3014,
+    "scene_num": 189,
+    "synopsis_num": 86,
+    "resolution": [
+      1280,
+      546
+    ]
+  },
+  "tt0119396": {
+    "duration": 9262.21,
+    "fps": 23.98,
+    "framecnt": 222071,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 2155,
+    "shot_num": 1202,
+    "scene_num": 131,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0119488": {
+    "duration": 8273.28,
+    "fps": 23.98,
+    "framecnt": 198359,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1660,
+    "shot_num": 1780,
+    "scene_num": 63,
+    "synopsis_num": 39,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0119528": {
+    "duration": 5189.86,
+    "fps": 23.98,
+    "framecnt": 124430,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1269,
+    "shot_num": 1237,
+    "scene_num": 78,
+    "synopsis_num": 11,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0119567": {
+    "duration": 7720.3,
+    "fps": 23.98,
+    "framecnt": 185102,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1204,
+    "shot_num": 1101,
+    "scene_num": 94,
+    "synopsis_num": 21,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0119654": {
+    "duration": 5878.87,
+    "fps": 23.98,
+    "framecnt": 140952,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1108,
+    "shot_num": 1300,
+    "scene_num": 94,
+    "synopsis_num": 44
+  },
+  "tt0119822": {
+    "duration": 8318.36,
+    "fps": 23.98,
+    "framecnt": 199441,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1617,
+    "shot_num": 1738,
+    "scene_num": 149,
+    "synopsis_num": 35,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0120382": {
+    "duration": 6176.93,
+    "fps": 23.98,
+    "framecnt": 148096,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1636,
+    "shot_num": 1397,
+    "scene_num": 108,
+    "synopsis_num": 22
+  },
+  "tt0120655": {
+    "duration": 7691.68,
+    "fps": 23.98,
+    "framecnt": 184416,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1919,
+    "shot_num": 2023,
+    "scene_num": 116,
+    "synopsis_num": 23
+  },
+  "tt0120660": {
+    "duration": 7931.05,
+    "fps": 23.98,
+    "framecnt": 190155,
+    "width_height_ratio": 2.3645320197044337,
+    "subtitle_num": 1628,
+    "shot_num": 3459,
+    "scene_num": 357,
+    "synopsis_num": 9,
+    "resolution": [
+      1702,
+      720
+    ]
+  },
+  "tt0120689": {
+    "duration": 11317.95,
+    "fps": 23.98,
+    "framecnt": 271357,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1989,
+    "shot_num": 2398,
+    "scene_num": 135,
+    "synopsis_num": 26,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0120735": {
+    "duration": 6443.3,
+    "fps": 23.98,
+    "framecnt": 154483,
+    "width_height_ratio": 1.8604651162790697,
+    "subtitle_num": 1569,
+    "shot_num": 1099,
+    "scene_num": 292,
+    "synopsis_num": 7,
+    "resolution": [
+      1280,
+      688
+    ]
+  },
+  "tt0120737": {
+    "duration": 13697.85,
+    "fps": 23.98,
+    "framecnt": 328420,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1710,
+    "shot_num": 3902,
+    "scene_num": 139,
+    "synopsis_num": 5
+  },
+  "tt0120755": {
+    "duration": 7415.41,
+    "fps": 23.98,
+    "framecnt": 177792,
+    "width_height_ratio": 2.4181360201511337,
+    "subtitle_num": 1079,
+    "shot_num": 2776,
+    "scene_num": 92,
+    "synopsis_num": 4,
+    "resolution": [
+      1741,
+      720
+    ]
+  },
+  "tt0120780": {
+    "duration": 7369.68,
+    "fps": 23.98,
+    "framecnt": 176695,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1655,
+    "shot_num": 1599,
+    "scene_num": 126,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0120804": {
+    "duration": 6031.01,
+    "fps": 23.98,
+    "framecnt": 144367,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 666,
+    "shot_num": 2103,
+    "scene_num": 97,
+    "synopsis_num": 23
+  },
+  "tt0120815": {
+    "duration": 10101.21,
+    "fps": 23.98,
+    "framecnt": 242184,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1689,
+    "shot_num": 1391,
+    "scene_num": 52,
+    "synopsis_num": 26,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0120890": {
+    "duration": 6886.88,
+    "fps": 23.98,
+    "framecnt": 165120,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1147,
+    "shot_num": 1151,
+    "scene_num": 114,
+    "synopsis_num": 3,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0120902": {
+    "duration": 7361.28,
+    "fps": 23.98,
+    "framecnt": 176494,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 776,
+    "shot_num": 1698,
+    "scene_num": 93,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0120915": {
+    "duration": 8170.92,
+    "fps": 23.98,
+    "framecnt": 195905,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1438,
+    "shot_num": 2259,
+    "scene_num": 110,
+    "synopsis_num": 5,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0121765": {
+    "duration": 8547.88,
+    "fps": 23.98,
+    "framecnt": 204943,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1216,
+    "shot_num": 2029,
+    "scene_num": 115,
+    "synopsis_num": 11,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0122690": {
+    "duration": 7293.79,
+    "fps": 23.98,
+    "framecnt": 174876,
+    "width_height_ratio": 2.3703703703703702,
+    "subtitle_num": 889,
+    "shot_num": 1877,
+    "scene_num": 107,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      540
+    ]
+  },
+  "tt0123755": {
+    "duration": 5433.6,
+    "fps": 23.98,
+    "framecnt": 130276,
+    "width_height_ratio": 1.8233618233618234,
+    "subtitle_num": 885,
+    "shot_num": 1063,
+    "scene_num": 34,
+    "synopsis_num": 12,
+    "resolution": [
+      1280,
+      702
+    ]
+  },
+  "tt0126886": {
+    "duration": 6177.18,
+    "fps": 23.98,
+    "framecnt": 148104,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1802,
+    "shot_num": 941,
+    "scene_num": 138,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0128445": {
+    "duration": 5581.62,
+    "fps": 23.98,
+    "framecnt": 133824,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1465,
+    "shot_num": 848,
+    "scene_num": 203,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0129387": {
+    "duration": 7841.31,
+    "fps": 23.98,
+    "framecnt": 188003,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1767,
+    "shot_num": 1182,
+    "scene_num": 207,
+    "synopsis_num": 4,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0134119": {
+    "duration": 8346.37,
+    "fps": 23.98,
+    "framecnt": 200112,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1812,
+    "shot_num": 1612,
+    "scene_num": 126,
+    "synopsis_num": 12,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0137523": {
+    "duration": 8348.37,
+    "fps": 23.98,
+    "framecnt": 200160,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1861,
+    "shot_num": 2357,
+    "scene_num": 216,
+    "synopsis_num": 13,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0138097": {
+    "duration": 7416.62,
+    "fps": 23.98,
+    "framecnt": 177821,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 1461,
+    "shot_num": 1787,
+    "scene_num": 132,
+    "synopsis_num": 10
+  },
+  "tt0139654": {
+    "duration": 7322.78,
+    "fps": 23.98,
+    "framecnt": 175568,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 2265,
+    "shot_num": 1872,
+    "scene_num": 77,
+    "synopsis_num": 16,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0142688": {
+    "duration": 7994.85,
+    "fps": 23.98,
+    "framecnt": 191684,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1238,
+    "shot_num": 1021,
+    "scene_num": 75,
+    "synopsis_num": 4,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0145487": {
+    "duration": 7272.31,
+    "fps": 23.98,
+    "framecnt": 174361,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1160,
+    "shot_num": 2031,
+    "scene_num": 96,
+    "synopsis_num": 10,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0159365": {
+    "duration": 9259.1,
+    "fps": 23.98,
+    "framecnt": 221991,
+    "width_height_ratio": 2.355371900826446,
+    "subtitle_num": 1495,
+    "shot_num": 2104,
+    "scene_num": 169,
+    "synopsis_num": 16,
+    "resolution": [
+      1140,
+      484
+    ]
+  },
+  "tt0162661": {
+    "duration": 6318.39,
+    "fps": 23.98,
+    "framecnt": 151490,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 745,
+    "shot_num": 2198,
+    "scene_num": 98,
+    "synopsis_num": 3
+  },
+  "tt0163025": {
+    "duration": 5540.54,
+    "fps": 23.98,
+    "framecnt": 132839,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 948,
+    "shot_num": 1471,
+    "scene_num": 73,
+    "synopsis_num": 22,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0164052": {
+    "duration": 7153.55,
+    "fps": 23.98,
+    "framecnt": 171513,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1069,
+    "shot_num": 1557,
+    "scene_num": 92,
+    "synopsis_num": 13,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0166924": {
+    "duration": 8794.49,
+    "fps": 23.98,
+    "framecnt": 210857,
+    "width_height_ratio": 1.8477842003853564,
+    "subtitle_num": 1046,
+    "shot_num": 1295,
+    "scene_num": 57,
+    "synopsis_num": 32
+  },
+  "tt0167190": {
+    "duration": 7948.96,
+    "fps": 23.98,
+    "framecnt": 190582,
+    "width_height_ratio": 1.839080459770115,
+    "subtitle_num": 1211,
+    "shot_num": 2394,
+    "scene_num": 116,
+    "synopsis_num": 32,
+    "resolution": [
+      1280,
+      696
+    ]
+  },
+  "tt0167260": {
+    "duration": 15796.89,
+    "fps": 23.98,
+    "framecnt": 378721,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1815,
+    "shot_num": 4043,
+    "scene_num": 118,
+    "synopsis_num": 17
+  },
+  "tt0167261": {
+    "duration": 14131.22,
+    "fps": 23.98,
+    "framecnt": 338795,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1979,
+    "shot_num": 3721,
+    "scene_num": 146,
+    "synopsis_num": 12
+  },
+  "tt0167404": {
+    "duration": 6443.52,
+    "fps": 23.98,
+    "framecnt": 154490,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 989,
+    "shot_num": 672,
+    "scene_num": 71,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0169547": {
+    "duration": 7299.97,
+    "fps": 23.98,
+    "framecnt": 175023,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1350,
+    "shot_num": 1037,
+    "scene_num": 117,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0172495": {
+    "duration": 10258.95,
+    "fps": 23.98,
+    "framecnt": 245967,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1347,
+    "shot_num": 2609,
+    "scene_num": 139,
+    "synopsis_num": 8,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0175880": {
+    "duration": 11319.71,
+    "fps": 23.98,
+    "framecnt": 271399,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 2672,
+    "shot_num": 893,
+    "scene_num": 141,
+    "synopsis_num": 50
+  },
+  "tt0178868": {
+    "duration": 5718.72,
+    "fps": 23.98,
+    "framecnt": 137112,
+    "width_height_ratio": 1.855072463768116,
+    "subtitle_num": 631,
+    "shot_num": 665,
+    "scene_num": 83,
+    "synopsis_num": 5
+  },
+  "tt0180073": {
+    "duration": 7446.5,
+    "fps": 23.98,
+    "framecnt": 178537,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1562,
+    "shot_num": 1320,
+    "scene_num": 123,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0181689": {
+    "duration": 8715.39,
+    "fps": 23.98,
+    "framecnt": 208958,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 1692,
+    "shot_num": 1502,
+    "scene_num": 198,
+    "synopsis_num": 26
+  },
+  "tt0183649": {
+    "duration": 4860.38,
+    "fps": 23.98,
+    "framecnt": 116532,
+    "width_height_ratio": 2.3616236162361623,
+    "subtitle_num": 1300,
+    "shot_num": 979,
+    "scene_num": 61,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      542
+    ]
+  },
+  "tt0186151": {
+    "duration": 7120.12,
+    "fps": 23.98,
+    "framecnt": 170689,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 1427,
+    "shot_num": 1913,
+    "scene_num": 243,
+    "synopsis_num": 25,
+    "resolution": [
+      1280,
+      546
+    ]
+  },
+  "tt0187393": {
+    "duration": 10506.53,
+    "fps": 23.98,
+    "framecnt": 251903,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1399,
+    "shot_num": 2585,
+    "scene_num": 136,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0190332": {
+    "duration": 7214.21,
+    "fps": 23.98,
+    "framecnt": 172968,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 887,
+    "shot_num": 1646,
+    "scene_num": 110,
+    "synopsis_num": 12,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0208092": {
+    "duration": 6166.2,
+    "fps": 23.98,
+    "framecnt": 147841,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1522,
+    "shot_num": 1481,
+    "scene_num": 282,
+    "synopsis_num": 25,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0209144": {
+    "duration": 6806.63,
+    "fps": 23.98,
+    "framecnt": 163195,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1229,
+    "shot_num": 1847,
+    "scene_num": 116,
+    "synopsis_num": 17,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0209958": {
+    "duration": 6430.26,
+    "fps": 23.98,
+    "framecnt": 154168,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 871,
+    "shot_num": 1595,
+    "scene_num": 145,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0213149": {
+    "duration": 10989.09,
+    "fps": 23.98,
+    "framecnt": 263378,
+    "width_height_ratio": 2.388059701492537,
+    "subtitle_num": 2485,
+    "shot_num": 3582,
+    "scene_num": 275,
+    "synopsis_num": 11,
+    "resolution": [
+      1280,
+      536
+    ]
+  },
+  "tt0217505": {
+    "duration": 9995.04,
+    "fps": 23.98,
+    "framecnt": 239636,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1522,
+    "shot_num": 1805,
+    "scene_num": 106,
+    "synopsis_num": 27,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0234215": {
+    "duration": 8295.45,
+    "fps": 23.98,
+    "framecnt": 198891,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 1226,
+    "shot_num": 2724,
+    "scene_num": 244,
+    "synopsis_num": 69
+  },
+  "tt0240772": {
+    "duration": 6994.21,
+    "fps": 23.98,
+    "framecnt": 167691,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1130,
+    "shot_num": 1182,
+    "scene_num": 188,
+    "synopsis_num": 16
+  },
+  "tt0244244": {
+    "duration": 5955.71,
+    "fps": 23.98,
+    "framecnt": 142791,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 902,
+    "shot_num": 1694,
+    "scene_num": 60,
+    "synopsis_num": 5,
+    "resolution": [
+      1280,
+      532
+    ]
+  },
+  "tt0246578": {
+    "duration": 8031.07,
+    "fps": 23.98,
+    "framecnt": 192553,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1038,
+    "shot_num": 1278,
+    "scene_num": 202,
+    "synopsis_num": 10,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0251160": {
+    "duration": 6966.21,
+    "fps": 23.98,
+    "framecnt": 166999,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1356,
+    "shot_num": 1815,
+    "scene_num": 157,
+    "synopsis_num": 6
+  },
+  "tt0253474": {
+    "duration": 8924.93,
+    "fps": 23.98,
+    "framecnt": 213982,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 895,
+    "shot_num": 1212,
+    "scene_num": 145,
+    "synopsis_num": 12
+  },
+  "tt0258463": {
+    "duration": 7097.43,
+    "fps": 23.98,
+    "framecnt": 170166,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1155,
+    "shot_num": 1747,
+    "scene_num": 275,
+    "synopsis_num": 9,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0264395": {
+    "duration": 5916.83,
+    "fps": 23.98,
+    "framecnt": 141862,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1484,
+    "shot_num": 2099,
+    "scene_num": 60,
+    "synopsis_num": 26,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0268126": {
+    "duration": 6895.9,
+    "fps": 23.98,
+    "framecnt": 165336,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1432,
+    "shot_num": 1458,
+    "scene_num": 187,
+    "synopsis_num": 4
+  },
+  "tt0281358": {
+    "duration": 6121.06,
+    "fps": 29.97,
+    "framecnt": 183443,
+    "width_height_ratio": 2.3616236162361623,
+    "subtitle_num": 816,
+    "shot_num": 1189,
+    "scene_num": 87,
+    "synopsis_num": 11,
+    "resolution": [
+      1280,
+      542
+    ]
+  },
+  "tt0286106": {
+    "duration": 6390.75,
+    "fps": 23.98,
+    "framecnt": 153223,
+    "width_height_ratio": 1.8604651162790697,
+    "subtitle_num": 1052,
+    "shot_num": 639,
+    "scene_num": 27,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      688
+    ]
+  },
+  "tt0288477": {
+    "duration": 5443.46,
+    "fps": 23.98,
+    "framecnt": 130512,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 747,
+    "shot_num": 2081,
+    "scene_num": 172,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0311113": {
+    "duration": 8300.32,
+    "fps": 23.98,
+    "framecnt": 199008,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1057,
+    "shot_num": 1633,
+    "scene_num": 122,
+    "synopsis_num": 7,
+    "resolution": [
+      1280,
+      535
+    ]
+  },
+  "tt0315327": {
+    "duration": 6062.22,
+    "fps": 23.98,
+    "framecnt": 145347,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1425,
+    "shot_num": 1383,
+    "scene_num": 102,
+    "synopsis_num": 38,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0319061": {
+    "duration": 7509.18,
+    "fps": 23.98,
+    "framecnt": 180038,
+    "width_height_ratio": 1.8604651162790697,
+    "subtitle_num": 1155,
+    "shot_num": 1838,
+    "scene_num": 156,
+    "synopsis_num": 16,
+    "resolution": [
+      1280,
+      688
+    ]
+  },
+  "tt0329101": {
+    "duration": 5840.13,
+    "fps": 23.98,
+    "framecnt": 140023,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1113,
+    "shot_num": 1662,
+    "scene_num": 110,
+    "synopsis_num": 4,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0335266": {
+    "duration": 6106.77,
+    "fps": 23.98,
+    "framecnt": 146415,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1119,
+    "shot_num": 902,
+    "scene_num": 158,
+    "synopsis_num": 7
+  },
+  "tt0338013": {
+    "duration": 6461.47,
+    "fps": 23.98,
+    "framecnt": 154919,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1548,
+    "shot_num": 1317,
+    "scene_num": 132,
+    "synopsis_num": 6,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt0343818": {
+    "duration": 6884.22,
+    "fps": 23.98,
+    "framecnt": 165056,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1106,
+    "shot_num": 2101,
+    "scene_num": 143,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0349903": {
+    "duration": 7518.08,
+    "fps": 23.98,
+    "framecnt": 180251,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1437,
+    "shot_num": 1036,
+    "scene_num": 134,
+    "synopsis_num": 8,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0361748": {
+    "duration": 9172.28,
+    "fps": 23.98,
+    "framecnt": 219911,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1180,
+    "shot_num": 1448,
+    "scene_num": 54,
+    "synopsis_num": 28,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0363771": {
+    "duration": 8571.71,
+    "fps": 23.98,
+    "framecnt": 205515,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1067,
+    "shot_num": 2973,
+    "scene_num": 57,
+    "synopsis_num": 57,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0369339": {
+    "duration": 7196.22,
+    "fps": 23.98,
+    "framecnt": 172534,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1200,
+    "shot_num": 1768,
+    "scene_num": 153,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0370263": {
+    "duration": 6520.81,
+    "fps": 23.98,
+    "framecnt": 156339,
+    "width_height_ratio": 2.34718826405868,
+    "subtitle_num": 540,
+    "shot_num": 2232,
+    "scene_num": 83,
+    "synopsis_num": 12,
+    "resolution": [
+      1689,
+      720
+    ]
+  },
+  "tt0371724": {
+    "duration": 6526.53,
+    "fps": 23.98,
+    "framecnt": 156478,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1359,
+    "shot_num": 1701,
+    "scene_num": 118,
+    "synopsis_num": 23
+  },
+  "tt0372183": {
+    "duration": 6511.5,
+    "fps": 23.98,
+    "framecnt": 156118,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1017,
+    "shot_num": 2300,
+    "scene_num": 214,
+    "synopsis_num": 43,
+    "resolution": [
+      1694,
+      720
+    ]
+  },
+  "tt0379786": {
+    "duration": 7142.56,
+    "fps": 23.98,
+    "framecnt": 171250,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1501,
+    "shot_num": 2135,
+    "scene_num": 69,
+    "synopsis_num": 18,
+    "resolution": [
+      1280,
+      545
+    ]
+  },
+  "tt0383574": {
+    "duration": 9039.03,
+    "fps": 23.98,
+    "framecnt": 216719,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1216,
+    "shot_num": 2600,
+    "scene_num": 73,
+    "synopsis_num": 4,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0407887": {
+    "duration": 9078.02,
+    "fps": 23.98,
+    "framecnt": 217653,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 1905,
+    "shot_num": 2662,
+    "scene_num": 329,
+    "synopsis_num": 21,
+    "resolution": [
+      1280,
+      528
+    ]
+  },
+  "tt0408236": {
+    "duration": 6982.4,
+    "fps": 23.98,
+    "framecnt": 167409,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1284,
+    "shot_num": 1678,
+    "scene_num": 42,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0408790": {
+    "duration": 5882.88,
+    "fps": 23.98,
+    "framecnt": 141047,
+    "width_height_ratio": 2.3616236162361623,
+    "subtitle_num": 777,
+    "shot_num": 1177,
+    "scene_num": 153,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      542
+    ]
+  },
+  "tt0409459": {
+    "duration": 12926.08,
+    "fps": 23.98,
+    "framecnt": 295528,
+    "width_height_ratio": 2.4193548387096775,
+    "subtitle_num": 2214,
+    "shot_num": 2766,
+    "scene_num": 195,
+    "synopsis_num": 65,
+    "resolution": [
+      1200,
+      496
+    ]
+  },
+  "tt0414387": {
+    "duration": 7697.9,
+    "fps": 23.98,
+    "framecnt": 184565,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1799,
+    "shot_num": 1079,
+    "scene_num": 116,
+    "synopsis_num": 56
+  },
+  "tt0421715": {
+    "duration": 9963.05,
+    "fps": 23.98,
+    "framecnt": 238874,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 1805,
+    "shot_num": 1162,
+    "scene_num": 187,
+    "synopsis_num": 26,
+    "resolution": [
+      1280,
+      528
+    ]
+  },
+  "tt0430357": {
+    "duration": 8352.58,
+    "fps": 23.98,
+    "framecnt": 200261,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 1110,
+    "shot_num": 1770,
+    "scene_num": 112,
+    "synopsis_num": 36,
+    "resolution": [
+      1280,
+      533
+    ]
+  },
+  "tt0434409": {
+    "duration": 7952.39,
+    "fps": 23.98,
+    "framecnt": 190663,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1822,
+    "shot_num": 2288,
+    "scene_num": 330,
+    "synopsis_num": 29,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0435705": {
+    "duration": 5770.8,
+    "fps": 23.98,
+    "framecnt": 138361,
+    "width_height_ratio": 2.4150943396226414,
+    "subtitle_num": 986,
+    "shot_num": 1678,
+    "scene_num": 143,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      530
+    ]
+  },
+  "tt0440963": {
+    "duration": 6914.0,
+    "fps": 23.98,
+    "framecnt": 165768,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1070,
+    "shot_num": 2761,
+    "scene_num": 309,
+    "synopsis_num": 4,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0443272": {
+    "duration": 8997.06,
+    "fps": 23.98,
+    "framecnt": 215713,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 2355,
+    "shot_num": 919,
+    "scene_num": 92,
+    "synopsis_num": 11
+  },
+  "tt0448157": {
+    "duration": 6134.34,
+    "fps": 23.98,
+    "framecnt": 147077,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1134,
+    "shot_num": 2050,
+    "scene_num": 205,
+    "synopsis_num": 4,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0454876": {
+    "duration": 7619.61,
+    "fps": 23.98,
+    "framecnt": 182688,
+    "width_height_ratio": 1.8532818532818534,
+    "subtitle_num": 968,
+    "shot_num": 1241,
+    "scene_num": 99,
+    "synopsis_num": 9,
+    "resolution": [
+      1334,
+      720
+    ]
+  },
+  "tt0467200": {
+    "duration": 6935.35,
+    "fps": 23.98,
+    "framecnt": 166282,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1103,
+    "shot_num": 1388,
+    "scene_num": 162,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0467406": {
+    "duration": 5764.77,
+    "fps": 23.98,
+    "framecnt": 138216,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1904,
+    "shot_num": 1098,
+    "scene_num": 100,
+    "synopsis_num": 12,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0479884": {
+    "duration": 5650.66,
+    "fps": 23.98,
+    "framecnt": 135478,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 817,
+    "shot_num": 1828,
+    "scene_num": 173,
+    "synopsis_num": 5,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0493464": {
+    "duration": 6600.48,
+    "fps": 23.98,
+    "framecnt": 158253,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 822,
+    "shot_num": 2321,
+    "scene_num": 113,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0499549": {
+    "duration": 10689.47,
+    "fps": 23.98,
+    "framecnt": 256291,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1515,
+    "shot_num": 2724,
+    "scene_num": 109,
+    "synopsis_num": 44,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0758758": {
+    "duration": 8887.34,
+    "fps": 23.98,
+    "framecnt": 213082,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1067,
+    "shot_num": 1965,
+    "scene_num": 267,
+    "synopsis_num": 13,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0780504": {
+    "duration": 6024.06,
+    "fps": 23.98,
+    "framecnt": 144433,
+    "width_height_ratio": 2.388059701492537,
+    "subtitle_num": 568,
+    "shot_num": 824,
+    "scene_num": 90,
+    "synopsis_num": 9,
+    "resolution": [
+      1719,
+      720
+    ]
+  },
+  "tt0780571": {
+    "duration": 7243.23,
+    "fps": 23.98,
+    "framecnt": 173658,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1364,
+    "shot_num": 1365,
+    "scene_num": 90,
+    "synopsis_num": 12,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt0790686": {
+    "duration": 6682.27,
+    "fps": 23.98,
+    "framecnt": 160212,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 807,
+    "shot_num": 1468,
+    "scene_num": 58,
+    "synopsis_num": 10,
+    "resolution": [
+      1280,
+      532
+    ]
+  },
+  "tt0796366": {
+    "duration": 7610.27,
+    "fps": 23.98,
+    "framecnt": 182464,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1321,
+    "shot_num": 2270,
+    "scene_num": 195,
+    "synopsis_num": 31,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0808151": {
+    "duration": 8775.89,
+    "fps": 23.98,
+    "framecnt": 210406,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 1522,
+    "shot_num": 2073,
+    "scene_num": 79,
+    "synopsis_num": 5,
+    "resolution": [
+      1280,
+      528
+    ]
+  },
+  "tt0815236": {
+    "duration": 6272.14,
+    "fps": 23.98,
+    "framecnt": 150381,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1566,
+    "shot_num": 1514,
+    "scene_num": 76,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0822832": {
+    "duration": 6933.92,
+    "fps": 23.98,
+    "framecnt": 166247,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1695,
+    "shot_num": 1550,
+    "scene_num": 160,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0824747": {
+    "duration": 8514.47,
+    "fps": 23.98,
+    "framecnt": 204143,
+    "width_height_ratio": 2.406015037593985,
+    "subtitle_num": 1965,
+    "shot_num": 1739,
+    "scene_num": 145,
+    "synopsis_num": 23,
+    "resolution": [
+      1280,
+      532
+    ]
+  },
+  "tt0848228": {
+    "duration": 8574.9,
+    "fps": 23.98,
+    "framecnt": 205592,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1754,
+    "shot_num": 2873,
+    "scene_num": 138,
+    "synopsis_num": 18,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0898367": {
+    "duration": 6680.74,
+    "fps": 23.98,
+    "framecnt": 160177,
+    "width_height_ratio": 2.356589147286822,
+    "subtitle_num": 782,
+    "shot_num": 1072,
+    "scene_num": 69,
+    "synopsis_num": 15,
+    "resolution": [
+      1216,
+      516
+    ]
+  },
+  "tt0913425": {
+    "duration": 7633.63,
+    "fps": 23.98,
+    "framecnt": 183023,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 1424,
+    "shot_num": 855,
+    "scene_num": 67,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      546
+    ]
+  },
+  "tt0945513": {
+    "duration": 5592.59,
+    "fps": 23.98,
+    "framecnt": 134088,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1229,
+    "shot_num": 1443,
+    "scene_num": 103,
+    "synopsis_num": 9,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0947798": {
+    "duration": 6487.52,
+    "fps": 23.98,
+    "framecnt": 155545,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 950,
+    "shot_num": 1568,
+    "scene_num": 54,
+    "synopsis_num": 29,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0959337": {
+    "duration": 7155.37,
+    "fps": 23.98,
+    "framecnt": 171557,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1144,
+    "shot_num": 922,
+    "scene_num": 87,
+    "synopsis_num": 32
+  },
+  "tt0963794": {
+    "duration": 5605.66,
+    "fps": 23.98,
+    "framecnt": 134401,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1038,
+    "shot_num": 1280,
+    "scene_num": 80,
+    "synopsis_num": 17,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt0964517": {
+    "duration": 6938.52,
+    "fps": 23.98,
+    "framecnt": 166357,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1665,
+    "shot_num": 1437,
+    "scene_num": 147,
+    "synopsis_num": 29,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt0974661": {
+    "duration": 6116.47,
+    "fps": 23.98,
+    "framecnt": 146625,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1335,
+    "shot_num": 1571,
+    "scene_num": 87,
+    "synopsis_num": 13,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt0976051": {
+    "duration": 7438.34,
+    "fps": 23.98,
+    "framecnt": 178341,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 942,
+    "shot_num": 1288,
+    "scene_num": 136,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt0977855": {
+    "duration": 6463.48,
+    "fps": 23.98,
+    "framecnt": 154967,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1418,
+    "shot_num": 1261,
+    "scene_num": 105,
+    "synopsis_num": 5
+  },
+  "tt0985699": {
+    "duration": 7220.99,
+    "fps": 23.98,
+    "framecnt": 173130,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1150,
+    "shot_num": 2058,
+    "scene_num": 192,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt0993846": {
+    "duration": 10792.37,
+    "fps": 23.98,
+    "framecnt": 258758,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 3960,
+    "shot_num": 2360,
+    "scene_num": 251,
+    "synopsis_num": 34,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt1024648": {
+    "duration": 7222.22,
+    "fps": 23.98,
+    "framecnt": 173160,
+    "width_height_ratio": 2.388059701492537,
+    "subtitle_num": 1212,
+    "shot_num": 2115,
+    "scene_num": 375,
+    "synopsis_num": 25
+  },
+  "tt1032755": {
+    "duration": 6859.07,
+    "fps": 23.98,
+    "framecnt": 164451,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1585,
+    "shot_num": 1382,
+    "scene_num": 196,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt1037705": {
+    "duration": 7056.05,
+    "fps": 23.98,
+    "framecnt": 169176,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 835,
+    "shot_num": 1037,
+    "scene_num": 96,
+    "synopsis_num": 24,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt1038919": {
+    "duration": 6638.63,
+    "fps": 23.98,
+    "framecnt": 159168,
+    "width_height_ratio": 2.3443223443223444,
+    "subtitle_num": 1512,
+    "shot_num": 2013,
+    "scene_num": 106,
+    "synopsis_num": 33,
+    "resolution": [
+      1280,
+      546
+    ]
+  },
+  "tt1045772": {
+    "duration": 5847.42,
+    "fps": 24.0,
+    "framecnt": 140338,
+    "width_height_ratio": 1.8532818532818534,
+    "subtitle_num": 1277,
+    "shot_num": 1037,
+    "scene_num": 182,
+    "synopsis_num": 6
+  },
+  "tt1059786": {
+    "duration": 7055.13,
+    "fps": 23.98,
+    "framecnt": 169154,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 1469,
+    "shot_num": 2514,
+    "scene_num": 151,
+    "synopsis_num": 38,
+    "resolution": [
+      1280,
+      528
+    ]
+  },
+  "tt1068680": {
+    "duration": 6264.13,
+    "fps": 23.98,
+    "framecnt": 150167,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1397,
+    "shot_num": 1359,
+    "scene_num": 83,
+    "synopsis_num": 24,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt1084950": {
+    "duration": 6763.78,
+    "fps": 23.98,
+    "framecnt": 162168,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1591,
+    "shot_num": 1197,
+    "scene_num": 92,
+    "synopsis_num": 7
+  },
+  "tt1099212": {
+    "duration": 7310.3,
+    "fps": 23.98,
+    "framecnt": 175271,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1748,
+    "shot_num": 1764,
+    "scene_num": 152,
+    "synopsis_num": 15
+  },
+  "tt1100089": {
+    "duration": 8066.08,
+    "fps": 23.98,
+    "framecnt": 193392,
+    "width_height_ratio": 1.855072463768116,
+    "subtitle_num": 1273,
+    "shot_num": 1120,
+    "scene_num": 146,
+    "synopsis_num": 7,
+    "resolution": [
+      1280,
+      690
+    ]
+  },
+  "tt1104001": {
+    "duration": 7508.7,
+    "fps": 23.98,
+    "framecnt": 180028,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1076,
+    "shot_num": 1878,
+    "scene_num": 76,
+    "synopsis_num": 15,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt1119646": {
+    "duration": 6473.49,
+    "fps": 23.98,
+    "framecnt": 155207,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1801,
+    "shot_num": 1806,
+    "scene_num": 114,
+    "synopsis_num": 27,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt1124035": {
+    "duration": 6071.07,
+    "fps": 23.98,
+    "framecnt": 145560,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1628,
+    "shot_num": 874,
+    "scene_num": 81,
+    "synopsis_num": 42,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt1125849": {
+    "duration": 6571.61,
+    "fps": 23.98,
+    "framecnt": 157555,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1343,
+    "shot_num": 938,
+    "scene_num": 97,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt1182345": {
+    "duration": 5829.86,
+    "fps": 23.98,
+    "framecnt": 139776,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 885,
+    "shot_num": 1082,
+    "scene_num": 61,
+    "synopsis_num": 14,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt1186367": {
+    "duration": 5921.92,
+    "fps": 23.98,
+    "framecnt": 141959,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 688,
+    "shot_num": 2135,
+    "scene_num": 105,
+    "synopsis_num": 11
+  },
+  "tt1193138": {
+    "duration": 6560.55,
+    "fps": 23.98,
+    "framecnt": 157296,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1413,
+    "shot_num": 1608,
+    "scene_num": 159,
+    "synopsis_num": 35,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt1205489": {
+    "duration": 7000.64,
+    "fps": 23.98,
+    "framecnt": 167707,
+    "width_height_ratio": 2.388059701492537,
+    "subtitle_num": 1356,
+    "shot_num": 1381,
+    "scene_num": 131,
+    "synopsis_num": 11,
+    "resolution": [
+      1280,
+      536
+    ]
+  },
+  "tt1210166": {
+    "duration": 7995.01,
+    "fps": 23.98,
+    "framecnt": 191688,
+    "width_height_ratio": 1.8443804034582132,
+    "subtitle_num": 1780,
+    "shot_num": 1533,
+    "scene_num": 129,
+    "synopsis_num": 3,
+    "resolution": [
+      1280,
+      694
+    ]
+  },
+  "tt1217613": {
+    "duration": 6970.96,
+    "fps": 23.98,
+    "framecnt": 167136,
+    "width_height_ratio": 2.388059701492537,
+    "subtitle_num": 1419,
+    "shot_num": 2620,
+    "scene_num": 103,
+    "synopsis_num": 16
+  },
+  "tt1219289": {
+    "duration": 6333.79,
+    "fps": 23.98,
+    "framecnt": 151859,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1218,
+    "shot_num": 1486,
+    "scene_num": 108,
+    "synopsis_num": 25,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt1284575": {
+    "duration": 5857.86,
+    "fps": 23.98,
+    "framecnt": 140447,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1037,
+    "shot_num": 1881,
+    "scene_num": 169,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt1285016": {
+    "duration": 7227.21,
+    "fps": 23.98,
+    "framecnt": 173278,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 2286,
+    "shot_num": 2204,
+    "scene_num": 196,
+    "synopsis_num": 10
+  },
+  "tt1291584": {
+    "duration": 8394.24,
+    "fps": 23.98,
+    "framecnt": 201260,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 2112,
+    "shot_num": 2190,
+    "scene_num": 133,
+    "synopsis_num": 18,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt1340800": {
+    "duration": 7642.69,
+    "fps": 23.98,
+    "framecnt": 183238,
+    "width_height_ratio": 2.3628691983122363,
+    "subtitle_num": 1044,
+    "shot_num": 1013,
+    "scene_num": 286,
+    "synopsis_num": 14
+  },
+  "tt1375666": {
+    "duration": 8887.94,
+    "fps": 23.98,
+    "framecnt": 213097,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1738,
+    "shot_num": 2610,
+    "scene_num": 264,
+    "synopsis_num": 42,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt1401152": {
+    "duration": 6792.8,
+    "fps": 23.98,
+    "framecnt": 162841,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 887,
+    "shot_num": 2157,
+    "scene_num": 182,
+    "synopsis_num": 7,
+    "resolution": [
+      1280,
+      528
+    ]
+  },
+  "tt1403865": {
+    "duration": 6620.41,
+    "fps": 23.98,
+    "framecnt": 158731,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1364,
+    "shot_num": 1532,
+    "scene_num": 70,
+    "synopsis_num": 13,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt1409024": {
+    "duration": 6350.43,
+    "fps": 23.98,
+    "framecnt": 152258,
+    "width_height_ratio": 1.8461538461538463,
+    "subtitle_num": 1821,
+    "shot_num": 1791,
+    "scene_num": 76,
+    "synopsis_num": 10,
+    "resolution": [
+      1329,
+      720
+    ]
+  },
+  "tt1411238": {
+    "duration": 6478.35,
+    "fps": 23.98,
+    "framecnt": 155324,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1495,
+    "shot_num": 957,
+    "scene_num": 160,
+    "synopsis_num": 26,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt1412386": {
+    "duration": 7425.58,
+    "fps": 23.98,
+    "framecnt": 178032,
+    "width_height_ratio": 2.3529411764705883,
+    "subtitle_num": 1735,
+    "shot_num": 1488,
+    "scene_num": 214,
+    "synopsis_num": 10,
+    "resolution": [
+      1280,
+      544
+    ]
+  },
+  "tt1446714": {
+    "duration": 7426.46,
+    "fps": 23.98,
+    "framecnt": 178057,
+    "width_height_ratio": 2.388059701492537,
+    "subtitle_num": 1420,
+    "shot_num": 2179,
+    "scene_num": 248,
+    "synopsis_num": 17,
+    "resolution": [
+      1280,
+      536
+    ]
+  },
+  "tt1454029": {
+    "duration": 8774.98,
+    "fps": 23.98,
+    "framecnt": 210389,
+    "width_height_ratio": 1.855072463768116,
+    "subtitle_num": 1918,
+    "shot_num": 1585,
+    "scene_num": 190,
+    "synopsis_num": 19,
+    "resolution": [
+      1280,
+      690
+    ]
+  },
+  "tt1454468": {
+    "duration": 5458.5,
+    "fps": 23.98,
+    "framecnt": 130873,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 884,
+    "shot_num": 370,
+    "scene_num": 47,
+    "synopsis_num": 6
+  },
+  "tt1478338": {
+    "duration": 7817.85,
+    "fps": 23.98,
+    "framecnt": 187439,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 2421,
+    "shot_num": 1969,
+    "scene_num": 198,
+    "synopsis_num": 9
+  },
+  "tt1504320": {
+    "duration": 7108.14,
+    "fps": 23.98,
+    "framecnt": 170425,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1366,
+    "shot_num": 1308,
+    "scene_num": 89,
+    "synopsis_num": 10
+  },
+  "tt1591095": {
+    "duration": 6172.17,
+    "fps": 23.98,
+    "framecnt": 147983,
+    "width_height_ratio": 2.4242424242424243,
+    "subtitle_num": 821,
+    "shot_num": 1339,
+    "scene_num": 123,
+    "synopsis_num": 8,
+    "resolution": [
+      1280,
+      528
+    ]
+  },
+  "tt1637725": {
+    "duration": 6363.36,
+    "fps": 23.98,
+    "framecnt": 152568,
+    "width_height_ratio": 1.8497109826589595,
+    "subtitle_num": 1809,
+    "shot_num": 1939,
+    "scene_num": 177,
+    "synopsis_num": 6,
+    "resolution": [
+      1280,
+      692
+    ]
+  },
+  "tt1659337": {
+    "duration": 6160.16,
+    "fps": 23.98,
+    "framecnt": 147695,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1565,
+    "shot_num": 1447,
+    "scene_num": 200,
+    "synopsis_num": 14
+  },
+  "tt1707386": {
+    "duration": 9474.5,
+    "fps": 23.98,
+    "framecnt": 227160,
+    "width_height_ratio": 1.8543046357615893,
+    "subtitle_num": 1923,
+    "shot_num": 2549,
+    "scene_num": 229,
+    "synopsis_num": 10,
+    "resolution": [
+      1120,
+      604
+    ]
+  },
+  "tt1723811": {
+    "duration": 6068.1,
+    "fps": 23.98,
+    "framecnt": 145488,
+    "width_height_ratio": 2.3616236162361623,
+    "subtitle_num": 855,
+    "shot_num": 330,
+    "scene_num": 80,
+    "synopsis_num": 11
+  },
+  "tt1800241": {
+    "duration": 8284.31,
+    "fps": 23.98,
+    "framecnt": 198625,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 2947,
+    "shot_num": 1434,
+    "scene_num": 202,
+    "synopsis_num": 63,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt1907668": {
+    "duration": 8315.35,
+    "fps": 23.98,
+    "framecnt": 199368,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 2118,
+    "shot_num": 1008,
+    "scene_num": 140,
+    "synopsis_num": 25
+  },
+  "tt1979320": {
+    "duration": 7346.77,
+    "fps": 29.97,
+    "framecnt": 220183,
+    "width_height_ratio": 1.7777777777777777,
+    "subtitle_num": 1370,
+    "shot_num": 2363,
+    "scene_num": 292,
+    "synopsis_num": 21,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "tt2024544": {
+    "duration": 8050.09,
+    "fps": 23.98,
+    "framecnt": 193009,
+    "width_height_ratio": 2.388059701492537,
+    "subtitle_num": 1486,
+    "shot_num": 728,
+    "scene_num": 117,
+    "synopsis_num": 9
+  },
+  "tt2132285": {
+    "duration": 5433.47,
+    "fps": 23.98,
+    "framecnt": 130272,
+    "width_height_ratio": 1.8532818532818534,
+    "subtitle_num": 1000,
+    "shot_num": 598,
+    "scene_num": 167,
+    "synopsis_num": 21,
+    "resolution": [
+      1334,
+      720
+    ]
+  },
+  "tt2140373": {
+    "duration": 7540.56,
+    "fps": 23.98,
+    "framecnt": 180792,
+    "width_height_ratio": 2.397003745318352,
+    "subtitle_num": 1830,
+    "shot_num": 1758,
+    "scene_num": 203,
+    "synopsis_num": 60,
+    "resolution": [
+      1280,
+      534
+    ]
+  },
+  "tt2488496": {
+    "duration": 8286.7,
+    "fps": 23.98,
+    "framecnt": 198682,
+    "width_height_ratio": 2.4,
+    "subtitle_num": 1405,
+    "shot_num": 2396,
+    "scene_num": 134,
+    "synopsis_num": 24,
+    "resolution": [
+      1728,
+      720
+    ]
+  },
+  "tt2582846": {
+    "duration": 7997.04,
+    "fps": 23.98,
+    "framecnt": 191737,
+    "width_height_ratio": 1.8604651162790697,
+    "subtitle_num": 2011,
+    "shot_num": 1874,
+    "scene_num": 148,
+    "synopsis_num": 25
+  }
+}

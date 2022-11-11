@@ -1,0 +1,6 @@
+all/
+train/
+test/
+*.zip
+*.tar 
+*.gz
