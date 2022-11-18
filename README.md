@@ -4,6 +4,10 @@
 
 This dataset is retrieved from [movienet](https://movienet.github.io/) with 228 movies. These movies are well hierarchically annotated with subtitle, cast, shot, scene, synopsis structure.
 
+# Download
+You can download 36.2G total file on
+https://bigai-research.s3.us-west-1.amazonaws.com/movienet-cleaned/MovieNet-cleaned-v1.0-202211111805.zip
+
 # structure
 
 ```bash
